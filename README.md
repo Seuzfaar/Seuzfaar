@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<a href="https://www.buymeacoffee.com/seuzfaar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/seuzfaar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" width="150" ></a> | Thank you for your support. With your help, I can enjoy a hot cup of coffee while working from my seat. 🤗
 <br>
 <br>
 ---
