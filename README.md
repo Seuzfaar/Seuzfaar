@@ -27,15 +27,14 @@
 <a href="http://youtube.com/seuzfaar?sub_confirmation=1">
  <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Seuzfaar&show_icons=true&custom_title=Seuzfaar's Stats&theme=transparent"
+  srcset="https://github-readme-stats.vercel.app/api?username=Seuzfaar&show_icons=true&theme=transparent"
   media="(prefers-color-scheme: dark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Seuzfaar&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
+ <br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=Seuzfaar&show_icons=true" />
 </picture></a>
-<br>
-<br>
-<a href="http://youtube.com/seuzfaar?sub_confirmation=1"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=seuzfaar&show_icons=true&bg_color=35,002880,3059b3,4ab2c7&locale=en&langs_count=10" /></a>
