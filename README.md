@@ -31,11 +31,11 @@
 <a href="http://youtube.com/seuzfaar?sub_confirmation=1">
  <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Seuzfaar&show_icons=true&theme=transparent"
+  srcset="https://github-readme-stats.vercel.app/api?username=Seuzfaar&text_color=FFFFFF&show_icons=true&theme=transparent"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=Seuzfaar&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=Seuzfaar&show_icons=true&text_color=000000"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Seuzfaar&show_icons=true" />
@@ -47,11 +47,11 @@
 <a href="http://youtube.com/seuzfaar?sub_confirmation=1">
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=seuzfaar&show_icons=true&locale=en&text_color=255255255&langs_count=10&theme=transparent"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=seuzfaar&show_icons=true&locale=en&text_color=FFFFFF&langs_count=10&theme=transparent"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=seuzfaar&show_icons=true&locale=en&langs_count=10"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=seuzfaar&show_icons=true&locale=en&langs_count=10&text_color=000000"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Seuzfaar&show_icons=true" />
