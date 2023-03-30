@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.instagram.com/iselo911/">
   <img align="center" alt="Seuzfaar's instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+</a><br><br>
 <a href="https://discord.gg/SWhBEbMzW3">
   <img align="center" alt="Likya Comminty" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
