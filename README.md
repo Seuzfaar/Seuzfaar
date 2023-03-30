@@ -27,4 +27,4 @@
 <a href="http://youtube.com/seuzfaar?sub_confirmation=1"><img src="https://github-readme-stats.vercel.app/api?username=Seuzfaar&show_icons=true&bg_color=35,002880,3059b3,4ab2c7,007f99&text_color=FFF&theme=dark&custom_title=Seuzfaar%27s%20stats&hide_border=true&border_radius=1" /></a>
 <br>
 <br>
-<a href="http://youtube.com/seuzfaar?sub_confirmation=1"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=seuzfaar&show_icons=true&bg_color=35,002880,3059b3,4ab2c7&locale=en&langs_count=" /></a>
+<a href="http://youtube.com/seuzfaar?sub_confirmation=1"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=seuzfaar&show_icons=true&bg_color=35,002880,3059b3,4ab2c7&locale=tr&exclude_repo=repo1,repo2" /></a>
