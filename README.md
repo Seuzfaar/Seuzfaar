@@ -5,10 +5,10 @@
 <p align="center">
   <a href="https://www.instagram.com/iselo911/">
   <img align="center" alt="Seuzfaar's instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a><br><br>
+</a> &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://discord.gg/SWhBEbMzW3">
   <img align="center" alt="Likya Comminty" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+</a> &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://youtube.com/c/seuzfaar">
   <img align="center" alt="Seuzfaar Youtube channel" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
@@ -47,7 +47,7 @@
 <a href="http://youtube.com/seuzfaar?sub_confirmation=1">
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=seuzfaar&show_icons=true&locale=en&&langs_count=10&theme=transparent"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=seuzfaar&show_icons=true&locale=en&text_color=255255255&langs_count=10&theme=transparent"
   media="(prefers-color-scheme: dark)"
 />
 <source
