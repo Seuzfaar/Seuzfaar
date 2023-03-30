@@ -33,10 +33,12 @@
 - If you support me, I can enjoy a hot cup of coffee while working from where I sit. 🤗
 
 <br>
-<br>
+</br>
 
 ---
 
+<br>
+</br>
 <a href="http://youtube.com/seuzfaar?sub_confirmation=1">
  <picture>
 <source 
