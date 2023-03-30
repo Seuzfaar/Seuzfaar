@@ -22,10 +22,16 @@
 <br>
 <br>
 
-- 🌟 Part of the <a href="https://discord.gg/SWhBEbMzW3">Likya Discord</a> Comminty
+- 🌱 I am learning Python, JavaScript, and HTML and sharing the content I create with the humans.
 - ❤️ I love writing phyton, Javascript and building fun experiments on **U4** 
 - 📸 I'm making a YouTube video for you <a href="http://youtube.com/seuzfaar?sub_confirmation=1">on my channel.</a> You can also learn something from it.
 
+<br>
+<br>
+
+<a href="https://www.buymeacoffee.com/seuzfaar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" width="150" ></a>
+<br>
+<br>
 ---
 
 <a href="http://youtube.com/seuzfaar?sub_confirmation=1">
