@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://www.instagram.com/iselo911/">
-  <img align="left" alt="Seuzfaar's instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="center" alt="Seuzfaar's instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/SWhBEbMzW3">
-  <img align="left" alt="Likya Comminty" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="center" alt="Likya Comminty" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://youtube.com/c/seuzfaar">
-  <img align="left" alt="Seuzfaar Youtube channel" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="center" alt="Seuzfaar Youtube channel" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 </p>
 
