@@ -37,14 +37,17 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Seuzfaar&show_icons=true" />
 </picture></a>
 
+<br>
+<br>
+
 <a href="http://youtube.com/seuzfaar?sub_confirmation=1">
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=seuzfaar&show_icons=true&locale=en&layout=compact&theme=transparent"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=seuzfaar&show_icons=true&locale=en&&langs_count=10&theme=transparent"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=seuzfaar&show_icons=true&locale=en&layout=compact"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=seuzfaar&show_icons=true&locale=en&langs_count=10"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Seuzfaar&show_icons=true" />
