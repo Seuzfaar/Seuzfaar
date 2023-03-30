@@ -29,9 +29,12 @@
 <br>
 <br>
 
-<a href="https://www.buymeacoffee.com/seuzfaar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" width="150" ></a> | Thank you for your support. With your help, I can enjoy a hot cup of coffee while working from my seat. 🤗
+<a href="https://www.buymeacoffee.com/seuzfaar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" width="150" ></a> 
+- If you support me, I can enjoy a hot cup of coffee while working from where I sit. 🤗
+
 <br>
 <br>
+
 ---
 
 <a href="http://youtube.com/seuzfaar?sub_confirmation=1">
