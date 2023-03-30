@@ -34,6 +34,6 @@
   srcset="https://github-readme-stats.vercel.app/api?username=Seuzfaar&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<a href="http://youtube.com/seuzfaar?sub_confirmation=1"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=seuzfaar&show_icons=true&locale=en&layout=compact" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=seuzfaar&show_icons=true&locale=en&layout=compact" /></a>
 </picture></a>
 
